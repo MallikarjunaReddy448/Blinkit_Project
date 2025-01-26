@@ -1,6 +1,8 @@
-BlinkIt (Blinkted) Project - SQL Analysis and Tableau Dashboard Development
+BlinkIt Project - SQL Analysis and Tableau Dashboard Development
 
 This project involves an end-to-end analysis of customer and sales data to derive actionable insights for improving business performance and customer engagement. The work encompasses SQL-based data analysis, cleaning, and transformation, alongside Tableau dashboard development for visually intuitive and interactive reporting.
+
+Dashboard: 👉 [Explore the BlinkIt Sales Dashboard here](https://public.tableau.com/app/profile/mallikarjuna.reddy.gurrala/viz/Blinkit_data_analysis_dashboard/Dashboard1)
 
 Key Features:
 SQL Analysis:
